@@ -1,0 +1,8 @@
+.form-panel .panel-heading { margin-bottom: 10px; }
+.form-panel .app-form { gap: 7px; }
+.saved-journey-card { display: flex; gap: 13px; padding: 14px 0; border-top: 1px solid #edf0eb; }
+.saved-journey-card > div { display: grid; gap: 4px; }
+.saved-journey-card strong { color: #3a493e; font-size: 11px; }
+.saved-journey-card p { margin: 0; color: #718078; font-size: 9px; }
+.saved-journey-card small { color: #929b94; font-size: 8px; }
+.saved-journey-card b { margin-top: 4px; color: #537354; font-size: 9px; }

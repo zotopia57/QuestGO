@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Central India forest and heritage</title>
+  <desc id="desc">Original illustration of a forested plateau, a historic stone pavilion and a winding river.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a8c9bc"/><stop offset="1" stop-color="#f0d7a2"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop stop-color="#79b3a5"/><stop offset="1" stop-color="#386e61"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="911" cy="155" r="58" fill="#f4db9d"/>
+  <path fill="#8dab8f" d="m0 423 176-151 158 99 166-196 181 188 164-120 210 174 145-109v392H0z"/>
+  <path fill="#527d5f" d="M0 467q199-99 394 9t390-3q219-109 416 7v220H0z"/>
+  <g fill="#3c654e">
+    <path d="m65 489 54-133 55 133zm88 8 42-104 44 104zm760-11 52-125 53 125zm101 4 41-99 43 99zm111-2 34-82 36 82z"/>
+  </g>
+  <g fill="#a9704f">
+    <path d="M487 474V334h31v-49h35v49h30v-68h37v68h30v-48h35v48h29v140z"/>
+    <path d="M471 473h261v20H471z"/>
+  </g>
+  <g fill="#e5c08b"><path d="M535 378h20v48h-20zm68-17h20v50h-20zm67 21h19v45h-19z"/></g>
+  <path fill="url(#river)" d="M0 572q187-37 347 13t328-6q191-59 525-2v123H0z"/>
+  <path fill="none" stroke="#d9d098" stroke-width="6" opacity=".65" d="M0 621q174-39 338 5t333-3q188-48 529 6"/>
+</svg>

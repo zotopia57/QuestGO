@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Himalayan mountain landscape</title>
+  <desc id="desc">Original illustrated mountain peaks, a highland lake and pine-covered slopes.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#6b9fbb"/><stop offset="1" stop-color="#d5ddc9"/></linearGradient>
+    <linearGradient id="lake" x2="0" y2="1"><stop stop-color="#6ca5a3"/><stop offset="1" stop-color="#315d58"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="934" cy="142" r="66" fill="#f2d89a" opacity=".9"/>
+  <path fill="#9ab4b1" d="m0 470 190-232 125 142 184-252 220 301 135-183 346 270v184H0z"/>
+  <path fill="#f4f0dc" d="m499 128 70 95-55-22-35 42-25-14-35 38zM833 242l57 70-52-19-27 21-25-11-28 25z"/>
+  <path fill="#526f68" d="m0 487 164-118 109 73 148-109 168 174 145-111 156 85 155-125 155 116v228H0z"/>
+  <path fill="url(#lake)" d="M0 533q192-42 378 9t398-4q207-54 424 5v157H0z"/>
+  <path fill="#244c45" d="m0 552 64-91 45 67 34-48 59 87 46-73 66 98 71-71 53 89H0zm760-11 60-101 45 66 49-93 60 124 43-59 83 105H724z"/>
+  <path fill="#b9c9b3" opacity=".45" d="M0 603q175-30 332 3t333-4q186-27 535 16v25q-197-26-370 2t-383 1q-223-23-447 7z"/>
+</svg>

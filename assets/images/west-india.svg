@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Western India desert fort</title>
+  <desc id="desc">Original illustration of a sandstone fort above layered desert dunes at sunset.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#7b8191"/><stop offset=".58" stop-color="#dfad79"/><stop offset="1" stop-color="#f1d39a"/></linearGradient>
+    <linearGradient id="dune" x2="0" y2="1"><stop stop-color="#d99d62"/><stop offset="1" stop-color="#9c5f43"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="900" cy="182" r="70" fill="#f4d791" opacity=".93"/>
+  <path fill="#bd835a" d="M0 468q206-138 407-29t393 8q214-102 400 12v241H0z"/>
+  <path fill="#d9a16a" d="M0 526q206-83 405-1t394 5q217-84 401-8v178H0z"/>
+  <g fill="#875441">
+    <path d="M320 425V294h40v-66h44v66h42v-87h49v87h39v-58h42v58h41v131z"/>
+    <path d="M295 426h352v26H295z"/>
+  </g>
+  <g fill="#e1b276">
+    <path d="M365 425V319h37v106zm103 0V314h44v111zm96 0V338h39v87z"/>
+    <path d="M315 292h46v17h-46zm131-20h51v17h-51zm91 0h44v17h-44z"/>
+  </g>
+  <g fill="#593e38"><path d="M379 365h12v28h-12zm107 0h15v30h-15zm91 3h13v27h-13z"/></g>
+  <path fill="none" stroke="#f0c990" stroke-width="5" opacity=".7" d="M0 602q226-74 442-3t414-4q173-55 344-9"/>
+</svg>

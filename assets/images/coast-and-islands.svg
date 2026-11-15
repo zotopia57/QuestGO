@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Indian coast and islands</title>
+  <desc id="desc">Original illustration of a tropical Indian coast, coconut palms and a calm turquoise sea.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8cc8d0"/><stop offset="1" stop-color="#f2d9a2"/></linearGradient>
+    <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#52b5b2"/><stop offset="1" stop-color="#226c70"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="944" cy="151" r="66" fill="#ffe0a0"/>
+  <path fill="#68a782" d="M0 396q186-132 365-26t339 9q205-104 496 8v161H0z"/>
+  <path fill="#3d7558" d="M0 444q182-94 357-15t362-1q219-94 481-8v113H0z"/>
+  <path fill="url(#sea)" d="M0 493q202-24 382 21t382-4q222-41 436 8v182H0z"/>
+  <path fill="#efcf91" d="M0 502q204-23 384 24-164-1-384 43zm1200 8q-186-11-340 17 161-3 340 30z"/>
+  <g fill="#285b43">
+    <path d="M154 509q-4-117-61-162 81 20 95 94 13-79 93-103-52 59-52 171z"/>
+    <path d="M285 500q-7-91-49-126 65 16 77 72 12-61 69-81-39 46-40 136z"/>
+    <path d="M1013 511q-3-125-61-171 82 22 96 99 14-83 96-108-55 62-55 179z"/>
+  </g>
+  <g fill="none" stroke="#bee1c9" stroke-width="6" opacity=".7"><path d="M0 558q168-17 322 16"/><path d="M720 558q224-24 480 9"/></g>
+</svg>

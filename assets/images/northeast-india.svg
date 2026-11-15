@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Northeast India green valley</title>
+  <desc id="desc">Original illustration of misty green hills, a waterfall and a river crossing.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a8ced0"/><stop offset="1" stop-color="#e8e4c4"/></linearGradient>
+    <linearGradient id="fall" x2="0" y2="1"><stop stop-color="#f5f2d8"/><stop offset="1" stop-color="#85c5b7"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop stop-color="#5aada0"/><stop offset="1" stop-color="#285f59"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="925" cy="142" r="54" fill="#f4dfa5" opacity=".85"/>
+  <path fill="#98b9aa" d="m0 408 163-158 151 118 184-214 210 227 176-167 150 165 166-118v439H0z"/>
+  <path fill="#5c9277" d="M0 454q147-100 296-10t309-7q183-124 359-6t236 8v261H0z"/>
+  <path fill="#36775f" d="M0 510q191-90 371-6t364-10q218-93 465 10v196H0z"/>
+  <path fill="url(#fall)" d="m693 291 42 13-9 135 28 37-39 57-31-51 26-38z"/>
+  <path fill="url(#river)" d="M0 603q200-41 373 13t361-1q220-64 466 4v81H0z"/>
+  <path fill="none" stroke="#c1d9a4" stroke-width="7" opacity=".68" d="M0 567q182-42 339 8t344-7q195-48 517 9"/>
+  <path fill="none" stroke="#d7cc96" stroke-width="16" stroke-linecap="round" d="M420 584q111-27 218 0t209 2"/>
+  <path fill="none" stroke="#7b633f" stroke-width="9" stroke-linecap="round" d="M420 577q111-27 218 0t209 2"/>
+</svg>

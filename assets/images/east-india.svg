@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Eastern India tea gardens and river</title>
+  <desc id="desc">Original illustration of distant blue hills, terraced tea gardens and a broad river.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#9fc9d0"/><stop offset="1" stop-color="#e6d9ac"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop stop-color="#80b8b2"/><stop offset="1" stop-color="#427d76"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="947" cy="152" r="62" fill="#f5d992"/>
+  <path fill="#83a9a0" d="m0 405 177-177 158 104 183-188 214 210 174-154 294 203v297H0z"/>
+  <path fill="#527f6a" d="m0 449 167-83 169 65 172-93 190 118 155-90 172 92 175-71v313H0z"/>
+  <path fill="#9bbd78" d="M0 461q158-46 310 18t316-6q173-77 352 0t222 6v221H0z"/>
+  <g fill="none" stroke="#d3d991" stroke-width="8" opacity=".75">
+    <path d="M0 507q177-54 344 9t328-5q175-72 360 4t168 6"/>
+    <path d="M0 541q174-53 345 8t328-5q177-70 358 4t169 5"/>
+    <path d="M0 576q174-52 345 8t328-4q176-70 358 4t169 5"/>
+  </g>
+  <path fill="url(#river)" d="M0 611q179-50 369 2t357-5q220-58 474 9v83H0z"/>
+  <path fill="#d5c899" opacity=".65" d="M0 622q142-31 274-2v12q-138-25-274 8zm884-6q162-38 316 5v13q-149-31-316-4z"/>
+</svg>

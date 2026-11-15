@@ -1,0 +1,9 @@
+<?php
+$layout = 'admin'; $activePage = 'profile'; $pageTitle = 'Admin profile | QuestGo';
+$pageHeading = 'Admin profile'; $pageEyebrow = 'ADMIN ACCOUNT'; $pageIntro = 'Review and update your administrator account details.';
+$pageStyles = ['assets/css/admin-dashboard.css'];
+require __DIR__ . '/../../includes/dashboard-start.php';
+?>
+<div class="row g-4"><div class="col-lg-4"><section class="profile-card admin-profile-card"><div class="profile-avatar"><?= htmlspecialchars(strtoupper(substr($currentUser['name'], 0, 1)), ENT_QUOTES, 'UTF-8') ?></div><h2><?= htmlspecialchars($currentUser['name'], ENT_QUOTES, 'UTF-8') ?></h2><p>Administrator</p><span class="profile-status">Active account</span><div class="profile-meta"><span>Access <strong>Administrator</strong></span></div></section></div>
+<div class="col-lg-8"><section class="panel-card"><div class="panel-heading"><div><p class="eyebrow">PROFILE DETAILS</p><h2>Update admin information</h2></div></div><form class="app-form" action="<?= $baseUrl ?>/backend/profile-process.php" method="post"><?= questgo_csrf_field() ?><label for="adminName">Full name</label><input id="adminName" name="name" class="form-control" value="<?= htmlspecialchars($currentUser['name'], ENT_QUOTES, 'UTF-8') ?>" maxlength="100" required><label for="adminEmail">Email address</label><input id="adminEmail" name="email" class="form-control" type="email" value="<?= htmlspecialchars($currentUser['email'], ENT_QUOTES, 'UTF-8') ?>" maxlength="254" required><label for="adminRole">Role</label><input id="adminRole" class="form-control" value="Administrator" disabled><button class="btn btn-primary-action" type="submit">Update profile</button><p class="form-status" aria-live="polite"></p></form></section><p class="inline-note">Administrator role can only be changed through protected account management.</p></div></div>
+<?php require __DIR__ . '/../../includes/dashboard-end.php'; ?>

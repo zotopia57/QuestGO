@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">South Indian tea hills and backwaters</title>
+  <desc id="desc">Original illustration of green Western Ghats, tea fields, palms and a calm waterway.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8fc8c1"/><stop offset="1" stop-color="#e4d99e"/></linearGradient>
+    <linearGradient id="water" x2="0" y2="1"><stop stop-color="#64a99a"/><stop offset="1" stop-color="#255f59"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v700H0z"/>
+  <circle cx="920" cy="146" r="58" fill="#ffe0a0"/>
+  <path fill="#6ba28b" d="M0 387 162 226l124 124 190-202 212 235 151-173 183 197 178-136v429H0z"/>
+  <path fill="#477b69" d="M0 431 160 323l147 69 162-115 169 169 151-94 186 91 113-75 112 57v275H0z"/>
+  <path fill="#a4bd78" d="M0 451q186-40 354 23t353-5q230-80 493 23v208H0z"/>
+  <path fill="#6f9c5e" d="M0 486q205-50 402 15t396-8q214-68 402 5v202H0z"/>
+  <path fill="url(#water)" d="M0 552q172-43 328 13t337-10q190-64 535 6v139H0z"/>
+  <g fill="#285c45">
+    <path d="M190 573q-8-96-61-145 76 25 86 91 16-70 89-92-54 54-57 145z"/>
+    <path d="M1040 579q-6-110-72-162 83 27 99 104 16-75 91-107-55 61-58 165z"/>
+  </g>
+  <g fill="#d8c38b" opacity=".75"><path d="M0 604q150-38 293 3v15q-145-30-293 11z"/><path d="M628 612q180-49 355-5v15q-185-35-355 6z"/></g>
+</svg>
